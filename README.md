@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- I am a Theoretical Physics DPhil student at the University of Oxford with an interest in quantitative research.
+- I am a Theoretical Physics DPhil student at the University of Oxford.
 
-- This github page is my first foray into the field.
+- This github page includes some projects I did during my free time for fun and experience.
 <!--
 **I-Hadjifrangiskou/I-Hadjifrangiskou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
