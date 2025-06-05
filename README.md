@@ -7,7 +7,7 @@ Welcome to my personal repository of quantitative finance projects. I’m curren
 
 ##  About Me
 
-I'm currently finishing my DPhil in **Theoretical Physics** at the **University of Oxford**. My academic work focuses on stochastic processes and mathematical modeling of complex systems, which naturally extend into my growing interest in **quantitative finance** — especially in the areas of **derivatives modeling, machine learning**, and **systematic strategies**.
+I'm currently finishing my DPhil in **Theoretical Physics** at the **University of Oxford**. My academic work focuses on mathematical modeling and numerical simulations of complex systems, which naturally extend into my growing interest in **quantitative finance** — especially in the areas of **derivatives modeling, machine learning**, and **systematic strategies**.
 
 Feel free to explore the projects, and don't hesitate to reach out with any constructive feedback.
 
